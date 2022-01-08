@@ -14,7 +14,7 @@
         "Sydney Harbour Bridge",
         "Queen Victoria Building"
       ],
-      "image": "https://pixabay.com/get/g64fa88a4c3fa02f55d4bdee38a6f311b9e4c5b7d678d22e800493d98ba8d8328a1cf686b3e4b43c4fbde9b4c5c312842e43d78b494b3fb254c78e359a70ccac21b9e2cd1dc82ee5f711c5378043aeea2_640.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg"
     },
     {
       "name": "New York City",
@@ -29,7 +29,8 @@
         "Chrysler Building",
         "Brooklyn Bridge",
         "Madison Square Garden"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/NYC_Downtown_Manhattan_Skyline_seen_from_Paulus_Hook_2019-12-20_IMG_7347_FRD_%28cropped%29.jpg"
     },
     {
       "name": "Madrid",
@@ -44,7 +45,8 @@
         "Royal Palace",
         "Plaza Mayor",
         "Plaza de Cibeles"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gran_V%C3%ADa_%28Madrid%29_1.jpg"
     },
     {
       "name": "Moscow",
@@ -59,7 +61,8 @@
         "Saint Basil's Cathedral",
         "Kremlin",
         "Bolshoi Theatre"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%9C%D0%93%D0%A3%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B0.jpg"
     },
     {
       "name": "Tokyo",
@@ -74,7 +77,8 @@
         "Meji Shrine",
         "Asakusa",
         "Tokyo Skytree"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"
     },
     {
       "name": "Lagos",
@@ -89,7 +93,8 @@
         "Iga Idungaran",
         "Freedom Park",
         "The Cathedral Church of Christ"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg"
     },
     {
       "name": "Sao Paulo",
@@ -104,7 +109,8 @@
         "Mosteiro De Sao Bento",
         "Italian Building",
         "Farol Santander"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/CENU%2C_S%C3%A3o_Paulo%2C_Brasil_%28cropped%29.jpg"
     },
     {
       "name": "Munich",
@@ -119,7 +125,8 @@
         "Bavaria statue",
         "Marienplatz",
         "ottonova office"
-      ]
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg"
     }
   ]
 }
