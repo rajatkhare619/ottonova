@@ -10,6 +10,9 @@ import { City } from '../shared/City';
   styleUrls: ['./city.component.scss'],
 })
 export class CityComponent {
+  /**
+   * An object containing the city details
+   */
   @Input() city!: City;
   constructor() {}
 }

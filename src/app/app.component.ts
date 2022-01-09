@@ -13,10 +13,16 @@ import { City } from './shared/City';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent implements OnInit {
+  /**
+   * An observable of an array of cities
+   */
   cities$!: Observable<City[]>;
 
   constructor(private citiesService: CitiesService) {}
 
+  /**
+   * Fetch the list of cities
+   */
   ngOnInit() {
     this.cities$ = this.citiesService.getCities();
   }
