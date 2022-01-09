@@ -1,0 +1,39 @@
+<div class="card">
+  <div class="thumbnail"><img [src]="city.image" /></div>
+  <div class="right">
+    <h1>
+      {{ city.name }} <span title="Native name">({{ city.name_native }})</span>
+    </h1>
+    <div class="details">
+      <strong>Founded in {{ city.founded }}</strong>
+    </div>
+    <div class="details">
+      <strong>Population - {{ city.population }}</strong>
+    </div>
+    <div class="separator"></div>
+    <div>
+      <h2 class="landmarks-heading">Landmarks</h2>
+      <ol>
+        <li *ngFor="let landmark of city.landmarks">
+          {{ landmark }}
+        </li>
+      </ol>
+    </div>
+  </div>
+  <div class="location">
+    <span>{{ city.country }}</span>
+    <span>{{ city.continent }}</span>
+  </div>
+  <div class="location-titles">
+    <span>Country</span>
+    <span>Continent</span>
+  </div>
+  <div class="coordinates">
+    <span>{{ city.latitude }}</span>
+    <span>{{ city.longitude }}</span>
+  </div>
+  <div class="coordinates-titles">
+    <span>Latitude</span>
+    <span>Longitude</span>
+  </div>
+</div>
