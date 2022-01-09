@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
-I used [Express](https://expressjs.com/) for creating a server, [ESLint](https://eslint.org/) for linting, and [Prettier](https://prettier.io/) for code formatting. I modified the cities.json slightly to return an additional property `image` to use as a thumbnail.
+I used [Express](https://expressjs.com/) for creating a server, [ESLint](https://eslint.org/) for linting, [Prettier](https://prettier.io/) for code formatting, and [Compodoc](https://compodoc.app/) for documentation. I modified the cities.json slightly to return an additional property `image` to use as a thumbnail.
 
 
 ## Running the application
