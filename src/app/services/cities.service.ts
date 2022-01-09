@@ -14,11 +14,11 @@ export class CitiesService {
 
   /**
    * Get cities data from the server
-   * @return an observable of array of cities
+   * @return an observable of an array of cities
    */
   getCities(): Observable<City[]> {
     return this.http
-      .get<{ cities: City[] }>('http://localhost:3000/cities')
+      .get<{ cities: City[] }>('/cities')
       .pipe(map((response) => response.cities));
   }
 }

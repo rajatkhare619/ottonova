@@ -75,7 +75,8 @@
               "browserTarget": "ottonova:build:production"
             },
             "development": {
-              "browserTarget": "ottonova:build:development"
+              "browserTarget": "ottonova:build:development",
+              "proxyConfig": "src/proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
