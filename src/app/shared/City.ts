@@ -1,3 +1,6 @@
+/**
+ * An interface describing the city object
+ */
 export interface City {
   name: string;
   name_native: string;
@@ -8,5 +11,5 @@ export interface City {
   population: number;
   founded: number;
   landmarks: string[];
-  image: string
+  image: string;
 }
