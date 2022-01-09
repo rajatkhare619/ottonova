@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
 import { CitiesService } from './services/cities.service';
 import { Observable } from 'rxjs';
 import { City } from './shared/City';
